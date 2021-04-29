@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Online Blackjack</string>
+    <string name="online_blackjack">Online Blackjack</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="username">Username</string>
+    <string name="version_1_0a">Version: 1.0A</string>
+    <string name="register">Register</string>
+    <string name="join">Join</string>
+    <string name="play_by_yourself_or_with_other_people">Play by yourself or with other people!</string>
+    <string name="matchmaking">Matchmaking</string>
+    <string name="solo_game">Solo Game</string>
+    <string name="_2_players">2 Players</string>
+    <string name="_3_players">3 Players</string>
+    <string name="_4_players">4 Players</string>
+    <string name="currently_in_queue_for_type">Currently in Queue for (Type)</string>
+    <string name="current_players_online_amount">Current Players Online: (Amount)</string>
+    <string name="seconds_have_elapsed">(Seconds) have elapsed</string>
+    <string name="leave_queue">Leave Queue</string>
+    <string name="player2_score">Player2 Score:</string>
+    <string name="player2_cards">Player2 cards:</string>
+    <string name="player3_score">Player3 Score:</string>
+    <string name="player4_cards">Player4 cards:</string>
+    <string name="hit">Hit</string>
+    <string name="stand">Stand</string>
+    <string name="your_cards">Your cards:</string>
+    <string name="total_score">Total Score:</string>
+    <string name="dealer_score">Dealer Score:</string>
+    <string name="player3_cards">Player3 cards:</string>
+    <string name="player4_score">Player4 Score:</string>
+    <string name="money">Money: $</string>
+    <string name="current_bet">Current Bet: $</string>
+    <string name="leave">Leave</string>
+    <string name="money_bet">Money: $, Bet: $</string>
+    <string name="bet">Bet</string>
+    <string name="place_your_bet_here">Place your bet here</string>
+    <string name="s_left_to_respond">()s left to respond</string>
+</resources>
