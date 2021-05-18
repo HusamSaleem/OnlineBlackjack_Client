@@ -14,12 +14,12 @@
 
 # Some pictures in game
 - Solo Session
-![image](https://user-images.githubusercontent.com/60799172/118719878-d7234380-b7dd-11eb-84a1-1d0054e9c908.png)
-![image](https://user-images.githubusercontent.com/60799172/118719932-e2766f00-b7dd-11eb-8883-883ac7aeac48.png)
+- ![image](https://user-images.githubusercontent.com/60799172/118719878-d7234380-b7dd-11eb-84a1-1d0054e9c908.png)
+- ![image](https://user-images.githubusercontent.com/60799172/118719932-e2766f00-b7dd-11eb-8883-883ac7aeac48.png)
 
 
 - With 1 other person
-![image](https://user-images.githubusercontent.com/60799172/118719743-b35ffd80-b7dd-11eb-9c2e-83d4ceffc935.png)
-![image](https://user-images.githubusercontent.com/60799172/118719826-ca9eeb00-b7dd-11eb-843e-b7ec39346d30.png)
+- ![image](https://user-images.githubusercontent.com/60799172/118719743-b35ffd80-b7dd-11eb-9c2e-83d4ceffc935.png)
+- ![image](https://user-images.githubusercontent.com/60799172/118719826-ca9eeb00-b7dd-11eb-843e-b7ec39346d30.png)
 
 
