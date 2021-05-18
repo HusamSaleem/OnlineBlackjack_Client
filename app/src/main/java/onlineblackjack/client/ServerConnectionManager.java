@@ -5,7 +5,7 @@ import java.net.InetSocketAddress;
 import java.net.Socket;
 
 public abstract class ServerConnectionManager {
-    private static final String HOST = "potatoserverdns.ddns.net";
+    private static final String HOST = "YOUR IP ADDRESS GOES HERE";
     private static final int PORT = 6479;
     private static Socket clientSocket;
 
